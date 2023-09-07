@@ -8,3 +8,6 @@
  Hallo!
  Das ist Stas.
  Schönes Wochenende)
+     
+Wie geht ' s?
+Was gibt's Neues?
