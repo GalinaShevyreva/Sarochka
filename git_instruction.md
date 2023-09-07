@@ -4,3 +4,7 @@
  * git add
  * git commit
  * git log
+
+ Hallo!
+ Das ist Stas.
+ Schönes Wochenende)
