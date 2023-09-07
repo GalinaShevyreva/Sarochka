@@ -4,3 +4,8 @@
 * git status
 * git commit
 * git log
+* git checkout
+* git branch
+* git diff
+* git pull
+* git push 
