@@ -11,3 +11,5 @@
      
 Wie geht ' s?
 Was gibt's Neues?
+
+Es geht mir gut.
