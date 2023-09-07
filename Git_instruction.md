@@ -9,3 +9,6 @@
 * git diff
 * git pull
 * git push 
+* git log -- graph
+
+## Основные команды по раблье с GIT 
